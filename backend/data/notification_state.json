@@ -23,8 +23,8 @@
   "tavan_bozdu_MEYSU_2026-02-22": "2026-02-22T10:42:11.687435",
   "stock_state_ATATR": "normal",
   "stock_state_ts_ATATR": "2026-02-27T07:39:36.220680",
-  "stock_state_BESTE": "normal",
-  "stock_state_ts_BESTE": "2026-02-27T07:39:36.293655",
+  "stock_state_BESTE": "taban",
+  "stock_state_ts_BESTE": "2026-02-27T10:08:41.951493",
   "stock_state_DOFRB": "normal",
   "stock_state_ts_DOFRB": "2026-02-24T07:51:04.194452",
   "stock_state_ZGYO": "normal",
@@ -238,6 +238,6 @@
   "yeni_arz_MCARD": "2026-02-27T07:39:35.874733",
   "stock_state_EMPAE": "tavan",
   "stock_state_ts_EMPAE": "2026-02-27T07:39:36.142143",
-  "stock_state_UCAYM": "normal",
-  "stock_state_ts_UCAYM": "2026-02-27T09:35:13.504640"
+  "stock_state_UCAYM": "tavan",
+  "stock_state_ts_UCAYM": "2026-02-27T10:08:42.097643"
 }
