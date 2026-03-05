@@ -19,27 +19,29 @@
     "borsada_islem_tarihi": "2026-02-20T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761476",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107164",
     "ilk_gun_kapanis": 24.200000762939453,
-    "max_fiyat": 35.41999816894531,
+    "max_fiyat": 38.959999084472656,
     "min_fiyat": 24.200000762939453,
-    "tavan_gun": 5,
+    "tavan_gun": 6,
     "sparkline": [
       24.200000762939453,
       26.6200008392334,
       29.280000686645508,
       32.20000076293945,
-      35.41999816894531
+      35.41999816894531,
+      38.959999084472656
     ],
     "sparkline_dates": [
       "2026-02-26",
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:22.198769",
+    "static_fetched_at": "2026-03-05T07:38:07.665645",
     "tarih_raw": "19-20 Şubat 2026"
   },
   {
@@ -62,7 +64,7 @@
     "borsada_islem_tarihi": "2026-02-13T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761478",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107166",
     "ilk_gun_kapanis": 12.319999694824219,
     "max_fiyat": 18.020000457763672,
     "min_fiyat": 12.319999694824219,
@@ -77,10 +79,11 @@
       14.600000381469727,
       13.140000343322754,
       12.470000267028809,
-      12.529999732971191
+      12.329999923706055,
+      12.5
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:22.330296",
+    "static_fetched_at": "2026-03-05T07:38:07.750432",
     "sparkline_dates": [
       "2026-02-19",
       "2026-02-20",
@@ -91,7 +94,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "tarih_raw": "11-12-13 Şubat 2026"
   },
@@ -115,11 +119,11 @@
     "borsada_islem_tarihi": "2026-02-06T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761479",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107168",
     "ilk_gun_kapanis": 16.170000076293945,
     "max_fiyat": 38.060001373291016,
     "min_fiyat": 16.170000076293945,
-    "tavan_gun": 10,
+    "tavan_gun": 11,
     "sparkline": [
       16.170000076293945,
       17.780000686645508,
@@ -136,10 +140,11 @@
       27.760000228881836,
       25.0,
       23.059999465942383,
-      22.860000610351562
+      25.360000610351562,
+      25.020000457763672
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:22.458301",
+    "static_fetched_at": "2026-03-05T07:38:07.833513",
     "sparkline_dates": [
       "2026-02-11",
       "2026-02-12",
@@ -156,7 +161,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "tarih_raw": "5-6 Şubat 2026"
   },
@@ -180,7 +186,7 @@
     "borsada_islem_tarihi": "2026-01-30T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761486",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107174",
     "ilk_gun_kapanis": 50.599998474121094,
     "max_fiyat": 108.5,
     "min_fiyat": 50.599998474121094,
@@ -205,10 +211,11 @@
       92.9000015258789,
       96.0,
       94.0,
-      95.0999984741211
+      96.4000015258789,
+      100.30000305175781
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:22.586954",
+    "static_fetched_at": "2026-03-05T07:38:07.918493",
     "sparkline_dates": [
       "2026-02-05",
       "2026-02-06",
@@ -229,7 +236,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "tarih_raw": "28-29-30 Ocak 2026"
   },
@@ -253,7 +261,7 @@
     "borsada_islem_tarihi": "2026-01-16T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761488",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107176",
     "ilk_gun_kapanis": 19.799999237060547,
     "max_fiyat": 38.5,
     "min_fiyat": 19.799999237060547,
@@ -288,10 +296,11 @@
       28.059999465942383,
       25.520000457763672,
       24.8799991607666,
-      25.1200008392334
+      26.280000686645508,
+      27.8799991607666
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:22.719893",
+    "static_fetched_at": "2026-03-05T07:38:08.001806",
     "sparkline_dates": [
       "2026-01-22",
       "2026-01-23",
@@ -322,7 +331,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "tarih_raw": "14-15-16 Ocak 2026"
   },
@@ -346,11 +356,11 @@
     "borsada_islem_tarihi": "2026-01-09T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761491",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107179",
     "ilk_gun_kapanis": 10.739999771118164,
     "max_fiyat": 35.400001525878906,
     "min_fiyat": 10.739999771118164,
-    "tavan_gun": 15,
+    "tavan_gun": 16,
     "sparkline": [
       10.739999771118164,
       11.8100004196167,
@@ -385,10 +395,11 @@
       24.540000915527344,
       22.100000381469727,
       21.399999618530273,
-      20.979999542236328
+      23.479999542236328,
+      23.15999984741211
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:22.847816",
+    "static_fetched_at": "2026-03-05T07:38:08.087255",
     "sparkline_dates": [
       "2026-01-16",
       "2026-01-19",
@@ -423,7 +434,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "tarih_raw": "7-8-9 Ocak 2026"
   },
@@ -447,10 +459,10 @@
     "borsada_islem_tarihi": "2026-01-09T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761489",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107178",
     "ilk_gun_kapanis": 33.2599983215332,
     "max_fiyat": 53.20000076293945,
-    "min_fiyat": 29.68000030517578,
+    "min_fiyat": 29.860000610351562,
     "tavan_gun": 7,
     "sparkline": [
       33.2599983215332,
@@ -487,10 +499,11 @@
       31.799999237060547,
       29.860000610351562,
       29.959999084472656,
-      29.68000030517578
+      30.68000030517578,
+      31.34000015258789
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:22.978136",
+    "static_fetched_at": "2026-03-05T07:38:08.176939",
     "sparkline_dates": [
       "2026-01-15",
       "2026-01-16",
@@ -526,7 +539,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "tarih_raw": "7-8-9 Ocak 2026"
   },
@@ -550,7 +564,7 @@
     "borsada_islem_tarihi": "2026-01-07T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761492",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107181",
     "ilk_gun_kapanis": 8.25,
     "max_fiyat": 16.65999984741211,
     "min_fiyat": 8.25,
@@ -592,10 +606,11 @@
       12.40999984741211,
       12.25,
       11.890000343322754,
-      11.930000305175781
+      12.1899995803833,
+      12.510000228881836
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:23.108545",
+    "static_fetched_at": "2026-03-05T07:38:08.258759",
     "sparkline_dates": [
       "2026-01-13",
       "2026-01-14",
@@ -633,7 +648,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "tarih_raw": "5-6-7 Ocak 2026"
   },
@@ -657,7 +673,7 @@
     "borsada_islem_tarihi": "2025-12-26T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761494",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107182",
     "ilk_gun_kapanis": 21.440000534057617,
     "max_fiyat": 37.900001525878906,
     "min_fiyat": 21.440000534057617,
@@ -705,10 +721,11 @@
       24.940000534057617,
       23.700000762939453,
       22.8799991607666,
-      22.6200008392334
+      23.799999237060547,
+      24.260000228881836
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:23.238341",
+    "static_fetched_at": "2026-03-05T07:38:08.343986",
     "sparkline_dates": [
       "2026-01-05",
       "2026-01-06",
@@ -752,7 +769,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "tarih_raw": "25-26 Aralık 2025"
   },
@@ -776,7 +794,7 @@
     "borsada_islem_tarihi": "2025-11-14T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761496",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107185",
     "ilk_gun_kapanis": 1.649999976158142,
     "max_fiyat": 1.809999942779541,
     "min_fiyat": 1.4900000095367432,
@@ -854,10 +872,11 @@
       1.5399999618530273,
       1.4900000095367432,
       1.5199999809265137,
-      1.5199999809265137
+      1.5299999713897705,
+      1.5499999523162842
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:23.365567",
+    "static_fetched_at": "2026-03-05T07:38:08.432673",
     "sparkline_dates": [
       "2025-11-21",
       "2025-11-24",
@@ -931,7 +950,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "tarih_raw": "12-13-14 Kasım 2025"
   },
@@ -955,7 +975,7 @@
     "borsada_islem_tarihi": "2025-11-14T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761498",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107186",
     "ilk_gun_kapanis": 15.619999885559082,
     "max_fiyat": 18.889999389648438,
     "min_fiyat": 11.199999809265137,
@@ -1034,10 +1054,11 @@
       12.550000190734863,
       12.050000190734863,
       11.920000076293945,
-      12.0
+      12.0600004196167,
+      12.329999923706055
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:23.495252",
+    "static_fetched_at": "2026-03-05T07:38:08.515848",
     "sparkline_dates": [
       "2025-11-20",
       "2025-11-21",
@@ -1112,7 +1133,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "tarih_raw": "12-13-14 Kasım 2025"
   },
@@ -1136,7 +1158,7 @@
     "borsada_islem_tarihi": "2025-10-24T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761499",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107188",
     "ilk_gun_kapanis": 11.4399995803833,
     "max_fiyat": 29.600000381469727,
     "min_fiyat": 11.4399995803833,
@@ -1228,10 +1250,11 @@
       25.3799991607666,
       26.15999984741211,
       26.5,
-      26.6200008392334
+      26.979999542236328,
+      26.899999618530273
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:23.625027",
+    "static_fetched_at": "2026-03-05T07:38:08.599352",
     "sparkline_dates": [
       "2025-11-03",
       "2025-11-04",
@@ -1319,7 +1342,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "tarih_raw": "22-23-24 Ekim 2025"
   },
@@ -1343,13 +1367,12 @@
     "borsada_islem_tarihi": "2025-09-05T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761502",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107191",
     "ilk_gun_kapanis": 49.5,
     "max_fiyat": 198.5,
     "min_fiyat": 49.5,
     "tavan_gun": 26,
     "sparkline": [
-      91.05000305175781,
       100.0999984741211,
       92.5,
       92.94999694824219,
@@ -1378,12 +1401,12 @@
       90.0,
       88.5,
       87.30000305175781,
-      87.5999984741211
+      88.05000305175781,
+      89.44999694824219
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:23.757872",
+    "static_fetched_at": "2026-03-05T07:38:08.685234",
     "sparkline_dates": [
-      "2026-01-22",
       "2026-01-23",
       "2026-01-26",
       "2026-01-27",
@@ -1412,7 +1435,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "tarih_raw": "3-4-5 Eylül 2025"
   },
@@ -1437,12 +1461,11 @@
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
     "guncelleme_zamani": "2026-02-22T10:00:00",
-    "ilk_gun_kapanis": 67.19999694824219,
+    "ilk_gun_kapanis": 66.44999694824219,
     "max_fiyat": 72.9000015258789,
     "min_fiyat": 52.900001525878906,
     "tavan_gun": 1,
     "sparkline": [
-      67.19999694824219,
       66.44999694824219,
       69.0,
       67.94999694824219,
@@ -1693,12 +1716,12 @@
       60.75,
       56.95000076293945,
       56.20000076293945,
-      56.099998474121094
+      56.70000076293945,
+      57.54999923706055
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:23.894588",
+    "static_fetched_at": "2026-03-05T07:38:08.771110",
     "sparkline_dates": [
-      "2025-03-04",
       "2025-03-05",
       "2025-03-06",
       "2025-03-07",
@@ -1949,7 +1972,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ]
   },
   {
@@ -1973,12 +1997,11 @@
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
     "guncelleme_zamani": "2026-02-22T10:00:00",
-    "ilk_gun_kapanis": 128.60000610351562,
+    "ilk_gun_kapanis": 127.5,
     "max_fiyat": 203.3000030517578,
     "min_fiyat": 125.5,
     "tavan_gun": 1,
     "sparkline": [
-      200.0,
       198.60000610351562,
       199.60000610351562,
       197.0,
@@ -2007,12 +2030,12 @@
       167.5,
       162.8000030517578,
       160.5,
-      160.5
+      151.60000610351562,
+      154.3000030517578
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:24.028435",
+    "static_fetched_at": "2026-03-05T07:38:08.860450",
     "sparkline_dates": [
-      "2026-01-22",
       "2026-01-23",
       "2026-01-26",
       "2026-01-27",
@@ -2041,7 +2064,8 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ]
   },
   {
@@ -2063,7 +2087,7 @@
     "borsada_islem_tarihi": "2026-01-30T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761483",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107172",
     "ilk_gun_kapanis": 23.639999389648438,
     "max_fiyat": 31.459999084472656,
     "min_fiyat": 22.959999084472656,
@@ -2087,7 +2111,8 @@
       24.399999618530273,
       22.959999084472656,
       23.799999237060547,
-      24.559999465942383
+      25.780000686645508,
+      26.459999084472656
     ],
     "sparkline_dates": [
       "2026-02-06",
@@ -2108,10 +2133,11 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:24.170145",
+    "static_fetched_at": "2026-03-05T07:38:08.946643",
     "tarih_raw": "28-29-30 Ocak 2026"
   },
   {
@@ -2133,11 +2159,11 @@
     "borsada_islem_tarihi": "2025-12-12T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761495",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107184",
     "ilk_gun_kapanis": 14.300000190734863,
     "max_fiyat": 22.540000915527344,
     "min_fiyat": 9.3100004196167,
-    "tavan_gun": 8,
+    "tavan_gun": 10,
     "sparkline": [
       14.300000190734863,
       15.729999542236328,
@@ -2192,7 +2218,8 @@
       14.90999984741211,
       13.899999618530273,
       15.289999961853027,
-      15.829999923706055
+      16.809999465942383,
+      18.489999771118164
     ],
     "sparkline_dates": [
       "2025-12-18",
@@ -2248,10 +2275,11 @@
       "2026-02-27",
       "2026-03-02",
       "2026-03-03",
-      "2026-03-04"
+      "2026-03-04",
+      "2026-03-05"
     ],
     "static_fetched": true,
-    "static_fetched_at": "2026-03-04T07:34:24.300767",
+    "static_fetched_at": "2026-03-05T07:38:09.033986",
     "tarih_raw": "10-11-12 Aralık 2025"
   },
   {
@@ -2273,7 +2301,7 @@
     "borsada_islem_tarihi": "",
     "durum": "taslak",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761501",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107190",
     "tarih_raw": "16 Eylül 2025 (Kısmi Bölünme)"
   },
   {
@@ -2294,9 +2322,9 @@
     "talep_baslangic": "2026-03-02T00:00:00",
     "talep_bitis": "2026-03-04T00:00:00",
     "borsada_islem_tarihi": "2026-03-04T00:00:00",
-    "durum": "talep_topluyor",
+    "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761464",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107153",
     "tarih_raw": "2-3-4 Mart 2026"
   },
   {
@@ -2317,9 +2345,9 @@
     "talep_baslangic": "2026-03-02T00:00:00",
     "talep_bitis": "2026-03-04T00:00:00",
     "borsada_islem_tarihi": "2026-03-04T00:00:00",
-    "durum": "talep_topluyor",
+    "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761470",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107159",
     "tarih_raw": "2-3-4 Mart 2026"
   },
   {
@@ -2342,7 +2370,7 @@
     "borsada_islem_tarihi": "2026-03-03T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761472",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107161",
     "tarih_raw": "2-3 Mart 2026"
   },
   {
@@ -2365,7 +2393,7 @@
     "borsada_islem_tarihi": "2026-03-02T00:00:00",
     "durum": "islem_goruyor",
     "son_katilimci_sayilari": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761474",
+    "guncelleme_zamani": "2026-03-05T07:38:07.107163",
     "tarih_raw": "26-27 Şubat, 2 Mart 2026"
   },
   {
@@ -2390,7 +2418,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761504"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107193"
   },
   {
     "sirket_kodu": "TAS_6E65",
@@ -2414,7 +2442,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761505"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107194"
   },
   {
     "sirket_kodu": "TAS_297C",
@@ -2438,7 +2466,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761507"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107196"
   },
   {
     "sirket_kodu": "TAS_7FD4",
@@ -2462,7 +2490,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761508"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107197"
   },
   {
     "sirket_kodu": "TAS_F46F",
@@ -2486,7 +2514,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761510"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107198"
   },
   {
     "sirket_kodu": "TAS_991E",
@@ -2510,7 +2538,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761511"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107200"
   },
   {
     "sirket_kodu": "TAS_C09C",
@@ -2534,7 +2562,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761512"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107201"
   },
   {
     "sirket_kodu": "TAS_43F9",
@@ -2558,7 +2586,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761514"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107202"
   },
   {
     "sirket_kodu": "TAS_80A8",
@@ -2582,7 +2610,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761515"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107204"
   },
   {
     "sirket_kodu": "TAS_2BDF",
@@ -2606,7 +2634,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761516"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107205"
   },
   {
     "sirket_kodu": "TAS_65AA",
@@ -2630,7 +2658,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761518"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107206"
   },
   {
     "sirket_kodu": "TAS_5B19",
@@ -2654,7 +2682,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761519"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107208"
   },
   {
     "sirket_kodu": "TAS_0CA5",
@@ -2678,7 +2706,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761520"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107209"
   },
   {
     "sirket_kodu": "TAS_069F",
@@ -2702,7 +2730,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761522"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107210"
   },
   {
     "sirket_kodu": "TAS_2D66",
@@ -2726,7 +2754,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761523"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107212"
   },
   {
     "sirket_kodu": "TAS_F528",
@@ -2750,7 +2778,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761524"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107213"
   },
   {
     "sirket_kodu": "TAS_06E4",
@@ -2774,7 +2802,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761526"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107214"
   },
   {
     "sirket_kodu": "TAS_D72C",
@@ -2798,7 +2826,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761527"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107231"
   },
   {
     "sirket_kodu": "TAS_A13B",
@@ -2822,7 +2850,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761528"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107232"
   },
   {
     "sirket_kodu": "TAS_CE1B",
@@ -2846,7 +2874,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761530"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107234"
   },
   {
     "sirket_kodu": "TAS_C3A4",
@@ -2870,7 +2898,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761531"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107235"
   },
   {
     "sirket_kodu": "OTOSR",
@@ -2894,7 +2922,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761533"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107237"
   },
   {
     "sirket_kodu": "TAS_C886",
@@ -2918,7 +2946,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761534"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107238"
   },
   {
     "sirket_kodu": "TAS_B780",
@@ -2942,7 +2970,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761616"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107319"
   },
   {
     "sirket_kodu": "TAS_73A0",
@@ -2966,7 +2994,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761537"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107241"
   },
   {
     "sirket_kodu": "TAS_A957",
@@ -2990,7 +3018,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761538"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107242"
   },
   {
     "sirket_kodu": "TAS_2665",
@@ -3014,7 +3042,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761540"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107243"
   },
   {
     "sirket_kodu": "TIMUR",
@@ -3038,7 +3066,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761541"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107244"
   },
   {
     "sirket_kodu": "TAS_A776",
@@ -3062,7 +3090,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761542"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107246"
   },
   {
     "sirket_kodu": "GLMND",
@@ -3086,7 +3114,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761544"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107247"
   },
   {
     "sirket_kodu": "TAS_C579",
@@ -3110,7 +3138,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761545"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107249"
   },
   {
     "sirket_kodu": "TAS_6108",
@@ -3134,7 +3162,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761546"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107250"
   },
   {
     "sirket_kodu": "TV8TV",
@@ -3158,7 +3186,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761548"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107251"
   },
   {
     "sirket_kodu": "TAS_A556",
@@ -3182,7 +3210,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761549"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107253"
   },
   {
     "sirket_kodu": "TAS_2326",
@@ -3206,7 +3234,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761550"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107254"
   },
   {
     "sirket_kodu": "TAS_3CD4",
@@ -3230,7 +3258,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761552"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107255"
   },
   {
     "sirket_kodu": "TAS_EB98",
@@ -3254,7 +3282,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761553"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107256"
   },
   {
     "sirket_kodu": "TAS_C6A8",
@@ -3278,7 +3306,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761554"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107258"
   },
   {
     "sirket_kodu": "TAS_3778",
@@ -3302,7 +3330,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761556"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107259"
   },
   {
     "sirket_kodu": "TAS_9CC0",
@@ -3326,7 +3354,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761557"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107260"
   },
   {
     "sirket_kodu": "TAS_206C",
@@ -3350,7 +3378,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761559"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107262"
   },
   {
     "sirket_kodu": "TAS_C6A7",
@@ -3374,7 +3402,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761560"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107263"
   },
   {
     "sirket_kodu": "TAS_E192",
@@ -3398,7 +3426,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761561"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107264"
   },
   {
     "sirket_kodu": "TAS_C915",
@@ -3422,7 +3450,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761563"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107266"
   },
   {
     "sirket_kodu": "TAS_A08B",
@@ -3446,7 +3474,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761564"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107267"
   },
   {
     "sirket_kodu": "TAS_2378",
@@ -3470,7 +3498,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761565"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107268"
   },
   {
     "sirket_kodu": "TAS_5514",
@@ -3494,7 +3522,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761567"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107270"
   },
   {
     "sirket_kodu": "TAS_8A6F",
@@ -3518,7 +3546,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761568"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107271"
   },
   {
     "sirket_kodu": "TAS_4326",
@@ -3542,7 +3570,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761570"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107272"
   },
   {
     "sirket_kodu": "TAS_EA4B",
@@ -3566,7 +3594,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761571"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107274"
   },
   {
     "sirket_kodu": "TAS_35A3",
@@ -3590,7 +3618,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761572"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107275"
   },
   {
     "sirket_kodu": "TAS_B44F",
@@ -3614,7 +3642,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761574"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107276"
   },
   {
     "sirket_kodu": "TAS_7967",
@@ -3638,7 +3666,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761575"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107278"
   },
   {
     "sirket_kodu": "QYHOL",
@@ -3662,7 +3690,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761576"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107279"
   },
   {
     "sirket_kodu": "TAS_636F",
@@ -3686,7 +3714,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761577"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107280"
   },
   {
     "sirket_kodu": "TAS_808A",
@@ -3710,7 +3738,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761579"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107282"
   },
   {
     "sirket_kodu": "TAS_8950",
@@ -3734,7 +3762,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761580"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107283"
   },
   {
     "sirket_kodu": "TAS_418E",
@@ -3758,7 +3786,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761581"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107284"
   },
   {
     "sirket_kodu": "TAS_3DE4",
@@ -3782,7 +3810,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761583"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107285"
   },
   {
     "sirket_kodu": "TAS_4A8A",
@@ -3806,7 +3834,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761584"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107287"
   },
   {
     "sirket_kodu": "TAS_0790",
@@ -3830,7 +3858,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761585"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107288"
   },
   {
     "sirket_kodu": "TAS_1923",
@@ -3854,7 +3882,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761587"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107289"
   },
   {
     "sirket_kodu": "TAS_71AE",
@@ -3878,7 +3906,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761588"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107291"
   },
   {
     "sirket_kodu": "TAS_DFB9",
@@ -3902,7 +3930,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761589"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107292"
   },
   {
     "sirket_kodu": "TAS_1768",
@@ -3926,7 +3954,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761591"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107293"
   },
   {
     "sirket_kodu": "TAS_89D1",
@@ -3950,7 +3978,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761592"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107295"
   },
   {
     "sirket_kodu": "TAS_25BA",
@@ -3974,7 +4002,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761593"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107296"
   },
   {
     "sirket_kodu": "TAS_DA61",
@@ -3998,7 +4026,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761595"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107297"
   },
   {
     "sirket_kodu": "TAS_2A1C",
@@ -4022,7 +4050,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761596"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107299"
   },
   {
     "sirket_kodu": "TAS_35D1",
@@ -4046,7 +4074,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761597"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107300"
   },
   {
     "sirket_kodu": "TAS_64BF",
@@ -4070,7 +4098,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761599"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107301"
   },
   {
     "sirket_kodu": "TAS_CDBA",
@@ -4094,7 +4122,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761600"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107303"
   },
   {
     "sirket_kodu": "TAS_0696",
@@ -4118,7 +4146,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761601"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107304"
   },
   {
     "sirket_kodu": "TAS_89DA",
@@ -4142,7 +4170,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761603"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107305"
   },
   {
     "sirket_kodu": "TAS_59B3",
@@ -4166,7 +4194,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761604"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107307"
   },
   {
     "sirket_kodu": "TAS_533E",
@@ -4190,7 +4218,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761605"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107308"
   },
   {
     "sirket_kodu": "TAS_5B49",
@@ -4214,7 +4242,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761607"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107309"
   },
   {
     "sirket_kodu": "TAS_DFFF",
@@ -4238,7 +4266,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761608"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107311"
   },
   {
     "sirket_kodu": "TAS_BED9",
@@ -4262,7 +4290,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761609"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107312"
   },
   {
     "sirket_kodu": "TAS_06DD",
@@ -4286,7 +4314,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761611"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107313"
   },
   {
     "sirket_kodu": "TAS_1591",
@@ -4310,7 +4338,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761612"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107315"
   },
   {
     "sirket_kodu": "TAS_304D",
@@ -4334,7 +4362,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761613"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107316"
   },
   {
     "sirket_kodu": "TAS_DEF9",
@@ -4358,7 +4386,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761615"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107317"
   },
   {
     "sirket_kodu": "TAS_19F6",
@@ -4382,7 +4410,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761617"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107320"
   },
   {
     "sirket_kodu": "TAS_4584",
@@ -4406,7 +4434,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761619"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107321"
   },
   {
     "sirket_kodu": "TAS_34AA",
@@ -4430,7 +4458,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761620"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107323"
   },
   {
     "sirket_kodu": "TAS_5296",
@@ -4454,7 +4482,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761621"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107324"
   },
   {
     "sirket_kodu": "TAS_DB8C",
@@ -4478,7 +4506,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761623"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107325"
   },
   {
     "sirket_kodu": "TAS_3F66",
@@ -4502,7 +4530,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761624"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107327"
   },
   {
     "sirket_kodu": "TAS_AE15",
@@ -4526,7 +4554,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761626"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107328"
   },
   {
     "sirket_kodu": "TAS_FEB7",
@@ -4550,7 +4578,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761627"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107329"
   },
   {
     "sirket_kodu": "TAS_7339",
@@ -4574,7 +4602,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761628"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107331"
   },
   {
     "sirket_kodu": "TAS_F7DF",
@@ -4598,7 +4626,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761630"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107332"
   },
   {
     "sirket_kodu": "TAS_51BE",
@@ -4622,7 +4650,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761631"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107333"
   },
   {
     "sirket_kodu": "TAS_6837",
@@ -4646,7 +4674,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761633"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107335"
   },
   {
     "sirket_kodu": "DNYVA",
@@ -4670,7 +4698,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761634"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107336"
   },
   {
     "sirket_kodu": "TAS_04B6",
@@ -4694,7 +4722,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761635"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107337"
   },
   {
     "sirket_kodu": "TAS_07BD",
@@ -4718,7 +4746,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761637"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107339"
   },
   {
     "sirket_kodu": "TAS_3445",
@@ -4742,7 +4770,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761638"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107340"
   },
   {
     "sirket_kodu": "TAS_96F0",
@@ -4766,7 +4794,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761639"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107341"
   },
   {
     "sirket_kodu": "TAS_9A05",
@@ -4790,7 +4818,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761641"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107343"
   },
   {
     "sirket_kodu": "TAS_442F",
@@ -4814,7 +4842,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761642"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107344"
   },
   {
     "sirket_kodu": "TAS_E5D9",
@@ -4838,7 +4866,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761644"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107345"
   },
   {
     "sirket_kodu": "TAS_816C",
@@ -4862,7 +4890,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761645"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107347"
   },
   {
     "sirket_kodu": "TAS_640A",
@@ -4886,7 +4914,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761646"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107348"
   },
   {
     "sirket_kodu": "TAS_CFCB",
@@ -4910,7 +4938,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761663"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107349"
   },
   {
     "sirket_kodu": "TAS_5CBB",
@@ -4934,7 +4962,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761664"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107351"
   },
   {
     "sirket_kodu": "TAS_8AB8",
@@ -4958,7 +4986,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761666"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107352"
   },
   {
     "sirket_kodu": "TAS_C411",
@@ -4982,7 +5010,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761667"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107354"
   },
   {
     "sirket_kodu": "TAS_03EA",
@@ -5006,7 +5034,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761669"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107355"
   },
   {
     "sirket_kodu": "TAS_0839",
@@ -5030,7 +5058,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761670"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107356"
   },
   {
     "sirket_kodu": "TAS_43AD",
@@ -5054,7 +5082,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761671"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107358"
   },
   {
     "sirket_kodu": "TAS_9AAB",
@@ -5078,7 +5106,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761673"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107359"
   },
   {
     "sirket_kodu": "TAS_62EE",
@@ -5102,7 +5130,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761674"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107360"
   },
   {
     "sirket_kodu": "TAS_E325",
@@ -5126,7 +5154,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761675"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107361"
   },
   {
     "sirket_kodu": "TAS_375C",
@@ -5150,7 +5178,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761677"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107363"
   },
   {
     "sirket_kodu": "TAS_461C",
@@ -5174,7 +5202,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761678"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107364"
   },
   {
     "sirket_kodu": "TAS_A178",
@@ -5198,7 +5226,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761679"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107365"
   },
   {
     "sirket_kodu": "TAS_A99D",
@@ -5222,7 +5250,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761681"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107367"
   },
   {
     "sirket_kodu": "TAS_7B8B",
@@ -5246,7 +5274,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761682"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107368"
   },
   {
     "sirket_kodu": "TAS_FDEC",
@@ -5270,7 +5298,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761684"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107369"
   },
   {
     "sirket_kodu": "TAS_49E6",
@@ -5294,7 +5322,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761685"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107371"
   },
   {
     "sirket_kodu": "TAS_477E",
@@ -5318,7 +5346,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761686"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107372"
   },
   {
     "sirket_kodu": "TAS_3D7A",
@@ -5342,7 +5370,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761688"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107373"
   },
   {
     "sirket_kodu": "TAS_675C",
@@ -5366,7 +5394,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761689"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107375"
   },
   {
     "sirket_kodu": "TAS_8B72",
@@ -5390,7 +5418,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761690"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107376"
   },
   {
     "sirket_kodu": "TAS_AD77",
@@ -5414,7 +5442,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761692"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107377"
   },
   {
     "sirket_kodu": "TAS_7662",
@@ -5438,7 +5466,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761693"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107379"
   },
   {
     "sirket_kodu": "TAS_81BA",
@@ -5462,7 +5490,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761694"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107380"
   },
   {
     "sirket_kodu": "TAS_5D49",
@@ -5486,7 +5514,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761696"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107382"
   },
   {
     "sirket_kodu": "TAS_FC37",
@@ -5510,7 +5538,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761697"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107383"
   },
   {
     "sirket_kodu": "TAS_A47F",
@@ -5534,7 +5562,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761699"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107384"
   },
   {
     "sirket_kodu": "TAS_2CE5",
@@ -5558,7 +5586,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761700"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107386"
   },
   {
     "sirket_kodu": "TAS_AF91",
@@ -5582,7 +5610,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761701"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107387"
   },
   {
     "sirket_kodu": "TAS_B205",
@@ -5606,7 +5634,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761703"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107388"
   },
   {
     "sirket_kodu": "TAS_33F2",
@@ -5630,7 +5658,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761704"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107390"
   },
   {
     "sirket_kodu": "TAS_E4D5",
@@ -5654,7 +5682,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761705"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107391"
   },
   {
     "sirket_kodu": "TAS_7DBB",
@@ -5678,7 +5706,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761707"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107392"
   },
   {
     "sirket_kodu": "TAS_5258",
@@ -5702,7 +5730,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761708"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107393"
   },
   {
     "sirket_kodu": "TAS_7DC3",
@@ -5726,7 +5754,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761709"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107395"
   },
   {
     "sirket_kodu": "TAS_DEB8",
@@ -5750,7 +5778,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761711"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107396"
   },
   {
     "sirket_kodu": "TAS_5052",
@@ -5774,7 +5802,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761712"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107398"
   },
   {
     "sirket_kodu": "TAS_D1F4",
@@ -5798,7 +5826,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761714"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107399"
   },
   {
     "sirket_kodu": "TAS_B0CB",
@@ -5822,7 +5850,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761715"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107400"
   },
   {
     "sirket_kodu": "TAS_7BD1",
@@ -5846,7 +5874,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761716"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107402"
   },
   {
     "sirket_kodu": "FIBAF",
@@ -5870,7 +5898,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761718"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107403"
   },
   {
     "sirket_kodu": "TAS_F2D6",
@@ -5894,7 +5922,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761719"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107405"
   },
   {
     "sirket_kodu": "TAS_62FF",
@@ -5918,7 +5946,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761720"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107406"
   },
   {
     "sirket_kodu": "TAS_147D",
@@ -5942,7 +5970,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761722"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107407"
   },
   {
     "sirket_kodu": "TAS_DC9D",
@@ -5966,7 +5994,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761723"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107408"
   },
   {
     "sirket_kodu": "TAS_4AF1",
@@ -5990,7 +6018,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761724"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107410"
   },
   {
     "sirket_kodu": "TAS_05EF",
@@ -6014,7 +6042,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761726"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107411"
   },
   {
     "sirket_kodu": "TAS_9334",
@@ -6038,7 +6066,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761727"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107413"
   },
   {
     "sirket_kodu": "TAS_C2C9",
@@ -6062,7 +6090,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761728"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107414"
   },
   {
     "sirket_kodu": "TAS_5024",
@@ -6086,7 +6114,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761730"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107415"
   },
   {
     "sirket_kodu": "TAS_1931",
@@ -6110,7 +6138,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761731"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107417"
   },
   {
     "sirket_kodu": "TAS_C2FF",
@@ -6134,7 +6162,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761732"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107418"
   },
   {
     "sirket_kodu": "TAS_DECD",
@@ -6158,7 +6186,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761734"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107419"
   },
   {
     "sirket_kodu": "TAS_045B",
@@ -6182,7 +6210,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761735"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107421"
   },
   {
     "sirket_kodu": "TAS_7CE4",
@@ -6206,7 +6234,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761737"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107422"
   },
   {
     "sirket_kodu": "TAS_F5AB",
@@ -6230,7 +6258,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761738"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107423"
   },
   {
     "sirket_kodu": "TEKYP",
@@ -6254,7 +6282,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761740"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107425"
   },
   {
     "sirket_kodu": "TAS_DA7E",
@@ -6278,7 +6306,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761741"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107426"
   },
   {
     "sirket_kodu": "ALNUS",
@@ -6302,7 +6330,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761742"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107428"
   },
   {
     "sirket_kodu": "TAS_C6F5",
@@ -6326,7 +6354,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761744"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107429"
   },
   {
     "sirket_kodu": "TAS_E432",
@@ -6350,7 +6378,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761745"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107430"
   },
   {
     "sirket_kodu": "EKIM",
@@ -6374,7 +6402,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761746"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107432"
   },
   {
     "sirket_kodu": "TAS_7642",
@@ -6398,7 +6426,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761748"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107433"
   },
   {
     "sirket_kodu": "TAS_DC67",
@@ -6422,7 +6450,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761749"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107434"
   },
   {
     "sirket_kodu": "NARFE",
@@ -6446,7 +6474,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761750"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107436"
   },
   {
     "sirket_kodu": "YESOT",
@@ -6470,7 +6498,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761752"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107437"
   },
   {
     "sirket_kodu": "TAS_D116",
@@ -6494,7 +6522,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761753"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107438"
   },
   {
     "sirket_kodu": "TAS_E401",
@@ -6518,7 +6546,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761754"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107440"
   },
   {
     "sirket_kodu": "TAS_04A5",
@@ -6542,7 +6570,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761756"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107441"
   },
   {
     "sirket_kodu": "TAS_E305",
@@ -6566,7 +6594,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761757"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107442"
   },
   {
     "sirket_kodu": "TAS_3CBF",
@@ -6590,7 +6618,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761758"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107444"
   },
   {
     "sirket_kodu": "TAS_BE27",
@@ -6614,7 +6642,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761760"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107445"
   },
   {
     "sirket_kodu": "AKCEL",
@@ -6638,7 +6666,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761761"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107446"
   },
   {
     "sirket_kodu": "TMGSY",
@@ -6662,7 +6690,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761762"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107448"
   },
   {
     "sirket_kodu": "TVKDN",
@@ -6686,7 +6714,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761764"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107449"
   },
   {
     "sirket_kodu": "KZLYI",
@@ -6710,7 +6738,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761765"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107451"
   },
   {
     "sirket_kodu": "KULE",
@@ -6734,7 +6762,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761766"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107452"
   },
   {
     "sirket_kodu": "TAS_F9BD",
@@ -6758,7 +6786,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761768"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107453"
   },
   {
     "sirket_kodu": "SMMAS",
@@ -6782,7 +6810,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761769"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107455"
   },
   {
     "sirket_kodu": "HDMCB",
@@ -6806,7 +6834,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761771"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107456"
   },
   {
     "sirket_kodu": "CAVDC",
@@ -6830,7 +6858,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761772"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107458"
   },
   {
     "sirket_kodu": "TEZKM",
@@ -6854,7 +6882,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761774"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107459"
   },
   {
     "sirket_kodu": "KAYMT",
@@ -6878,7 +6906,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761775"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107461"
   },
   {
     "sirket_kodu": "TAS_9158",
@@ -6902,7 +6930,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761776"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107462"
   },
   {
     "sirket_kodu": "TAS_D563",
@@ -6926,7 +6954,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761778"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107463"
   },
   {
     "sirket_kodu": "TAS_982B",
@@ -6950,7 +6978,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761779"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107465"
   },
   {
     "sirket_kodu": "TAS_7467",
@@ -6974,7 +7002,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761780"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107466"
   },
   {
     "sirket_kodu": "TAS_2CA5",
@@ -6998,7 +7026,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761782"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107467"
   },
   {
     "sirket_kodu": "TAS_3A2A",
@@ -7022,7 +7050,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761783"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107469"
   },
   {
     "sirket_kodu": "TAS_8A41",
@@ -7046,7 +7074,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761785"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107470"
   },
   {
     "sirket_kodu": "TAS_3FA1",
@@ -7070,7 +7098,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761786"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107471"
   },
   {
     "sirket_kodu": "TAS_11A4",
@@ -7094,7 +7122,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761787"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107473"
   },
   {
     "sirket_kodu": "TAS_92E1",
@@ -7118,7 +7146,7 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761789"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107474"
   },
   {
     "sirket_kodu": "TAS_BB4E",
@@ -7142,6 +7170,6 @@
     "son_katilimci_sayilari": [],
     "sparkline": [],
     "sparkline_dates": [],
-    "guncelleme_zamani": "2026-03-04T07:34:21.761790"
+    "guncelleme_zamani": "2026-03-05T07:38:07.107475"
   }
 ]
